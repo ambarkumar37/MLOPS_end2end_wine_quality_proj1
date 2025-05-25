@@ -1,0 +1,33 @@
+create iam user
+add the policeis as in read me
+create access key
+go to ecr 
+create repo
+and store thr uri as in readme 
+go to ec2
+launch instance
+give name 
+select ubuntu
+create key pair
+give any name create key pair
+tick boxes alow https both options
+config ifu add 32 gb
+launch instance
+goto instances
+locate instance 
+clikc on instance
+click connect
+click connect again
+runn the ubuntu comands sudo...
+then got to guthub repo
+setting>actions>runner>self hosted runner
+select linux and copy comamnds in ec2
+runner name is self-hosted
+press enter skip 
+run ./run.sh
+setup github secrets
+in guthub scevert vairable > actions>new repo sceret
+name type as mention in readme and copy them access id from csv file
+repeart for scret access key
+add aws rgion
+aws uri
