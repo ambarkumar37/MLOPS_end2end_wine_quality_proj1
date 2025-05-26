@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/832b9a2a920c4d319c73e17f8afb17a5/artifacts
+end_time: 1748095213472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 832b9a2a920c4d319c73e17f8afb17a5
+run_name: whimsical-lynx-864
+run_uuid: 832b9a2a920c4d319c73e17f8afb17a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748095197804
+status: 4
+tags: []
+user_id: AMBARKUMAR
