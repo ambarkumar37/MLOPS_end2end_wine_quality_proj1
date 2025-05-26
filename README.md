@@ -1,5 +1,6 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
+Refer Sample output folder for sample screenshots of outputs
 
 ## Workflows
 
