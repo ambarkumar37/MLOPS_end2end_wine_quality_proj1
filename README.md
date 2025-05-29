@@ -1,4 +1,4 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
+# End-to-end-Machine-Learning-Project-with-MLflow_AWS_EC2
 
 Refer Sample output folder for sample screenshots of outputs
 
